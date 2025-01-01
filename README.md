@@ -107,7 +107,7 @@ This project highlights the capabilities of AI in strategy games:
 ---
 
 ## License
-This project is licensed under the GNU 3.0 License. See the LICENSE file for details.
+This project is licensed under the GNU 3.0 License. See the `LICENSE` file for details.
 
 ---
 
